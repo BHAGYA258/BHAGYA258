@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhagya N
-- 🌱 Currently I'm experimenting on python and flutter.
+- 🌱 Currently I'm experimenting on python and web design.
 
 
 
